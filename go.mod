@@ -1,4 +1,4 @@
-module www.velocidex.com/golang/go-pe
+module github.com/jimbertools/go-pe
 
 require (
 	github.com/Velocidex/ordereddict v0.0.0-20221110130714-6a7cb85851cd

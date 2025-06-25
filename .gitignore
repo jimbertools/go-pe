@@ -2,3 +2,4 @@
 vendor/
 cmd/peinfo
 cmd/peinfo.exe
+.vscode/project-export.json
